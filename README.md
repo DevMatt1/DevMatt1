@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# Things About me:
+### Things About me:
 
 - 🔭 I’m currently working on RidgeDeveopment...
 - 🌱 I’m currently learning Java, SpigotAPI and BungeeCordAPI...
