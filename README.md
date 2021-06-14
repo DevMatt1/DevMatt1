@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+## Things About me:
 
 - 🔭 I’m currently working on RidgeDeveopment...
 - 🌱 I’m currently learning Java, SpigotAPI and BungeeCordAPI...
