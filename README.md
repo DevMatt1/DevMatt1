@@ -11,22 +11,17 @@
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: The first programmer in the world was a woman...
 
-### Latest YouTube Videos
+### 📺 Latest YouTube Videos!
 <!-- YOUTUUBE:START-->
 <!-- YOUTUUBE:END-->
 
-### My Social Media:
+### Connect With Me!
 
-[website]
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg [website]
 
-[youtube]
+https://camo.githubusercontent.com/6645c4c313a1f4f0032cd1c5e5fd0033417104a7a282fed4cafdca8ac2a1ab33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667 [youtube]
 
-[minecraftcodeplaylist]
-
-[twitter]
-
-[discord]
-
+https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667 [twitter]
 
 ### Statistics
 
