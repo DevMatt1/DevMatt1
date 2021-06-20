@@ -15,13 +15,20 @@
 <!-- YOUTUUBE:START-->
 <!-- YOUTUUBE:END-->
 
----
+### My Social Media:
+[website]
+[youtube]
+[minecraftcodeplaylist]
+[twitter]
+[discord]
 
 
 ### Statistics
 
 [![Buzzflow69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buzzflow69&theme=tokyonight&show_icons=true)
 
+<br />
+<br />
 
 [website]: ComingSoon!
 [youtube]: https://www.youtube.com/channel/UCPH9rUayYH_I0rLJMB1AAGA
