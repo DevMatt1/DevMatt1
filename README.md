@@ -16,11 +16,12 @@
 <!-- YOUTUUBE:END-->
 
 ### My Social Media:
-[website]
-[youtube]
-[minecraftcodeplaylist]
-[twitter]
-[discord]
+
+[[website]]
+[[youtube]]
+[[minecraftcodeplaylist]]
+[[twitter]]
+[[discord]
 
 
 ### Statistics
