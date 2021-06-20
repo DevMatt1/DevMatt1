@@ -11,8 +11,20 @@
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: The first programmer in the world was a woman...
 
+### Latest YouTube Videos
+<!-- YOUTUUBE:START-->
+<!-- YOUTUUBE:END-->
+
+---
+
+
 ### Statistics
 
 [![Buzzflow69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buzzflow69&theme=tokyonight&show_icons=true)
 
 
+[website]: ComingSoon!
+[youtube]: https://www.youtube.com/channel/UCPH9rUayYH_I0rLJMB1AAGA
+[minecraftcodeplaylist]: ComingSoon!
+[twitter]: https://twitter.com/Buzzflow89
+[discord]: https://discord.gg/FUasbNpyNs
