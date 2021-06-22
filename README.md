@@ -23,7 +23,7 @@
 
 ### Statistics
 
-[![Buzzflow69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buzzflow69&theme=tokyonight&show_icons=true)
+![Buzzflow69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buzzflow69&theme=tokyonight&show_icons=true)
 
 ### Top languages
 
