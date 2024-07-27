@@ -19,11 +19,11 @@
 
 ### Statistics
 
-![Buzzflow69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buzzflow69&theme=tokyonight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMatt1&theme=tokyonight&show_icons=true)
 
 ### Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzflow69)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatt1)
 
 
 <br />
